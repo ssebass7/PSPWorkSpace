@@ -1,0 +1,3 @@
+En base al ejercicio del concesionario anterior. Hacer un cliente Rest mediante
+RestTemplate que consuma dicho servicio REST.
+
