@@ -1,0 +1,16 @@
+
+Una pequeña aplicacion que al arrancar nos muestre el siguiente menu
+
+	1- Alta usuario
+	2- Login usuario
+	0- Salir
+	
+Si pulsamos 1, la app nos pedira un usuario y un password para guardar
+en bbdd. La constraseña se guardara hasheada
+
+Si pulsamos 2, la app nos pedira un usuario y un password para entrar
+en la app, la app comprobará si el hash de la bbdd es igual que el hash
+que se genere del password. Si es igual, entraremos en la app, si es
+difernte dara error
+
+Con 0 saldremos de la app :) :) :) :) :)
